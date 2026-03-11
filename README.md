@@ -1,4 +1,4 @@
-# Formulario de Matricula - Full-Stack - Rocketseat
+# Formulário de Matrícula - Full-Stack - Rocketseat
 
 Projeto realizado durante o curso Full-Stack da Rocketseat
 
